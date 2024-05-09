@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 📚 I’m currently pursuing master's degree in Advanced Computer Technology Institute (ACT Lab) at Beihang University (BUAA)
+- 🌱 I’m currently learning Kubernetes, golang for research interests in cloud native 
+- 📫 How to reach me: kaiser_2857@outlook.com
 
 <!--
 **kaiser2857/kaiser2857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
